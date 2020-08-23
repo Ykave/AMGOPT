@@ -713,6 +713,18 @@ section.lazy-placeholder:after {
 .cid-s5AS1MHXxl {
   background-image: url("../../../assets/images/kedy-shnurki-obuv-minimalizm-1280x1024.jpg");
 }
+.cid-s8w6LLziMI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-s8w6LLziMI .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-s8w6LLziMI .social-list a:focus {
+  text-decoration: none;
+}
 .cid-s839MHUGXG {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -915,6 +927,11 @@ section.lazy-placeholder:after {
   .cid-s83abhpvhg .btn {
     font-size: 20px !important;
   }
+}
+.cid-s8w6gFZzXI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
 }
 .cid-s8k12vaNZq {
   padding-top: 90px;
